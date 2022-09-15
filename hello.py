@@ -1,2 +1,2 @@
-# Write a print statement that says hello rexburg in German
+# Write a print statement that says hello world
 print("Hello World")
