@@ -9,7 +9,7 @@ This is a basic Hello world program using a .ignore file. I did this to practice
 
 
 
-I used Python to complete my Hello World project.
+I used Python to complete my Hello World project. The IDE I used was Visual Studio Code.
 
 # Useful Websites
 
